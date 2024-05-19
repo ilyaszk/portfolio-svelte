@@ -1,18 +1,11 @@
-# create-svelte
+# PortFolio
+Hey there! This is my personal portfolio. I'm a software engineer based in France. If you're interested in my work, feel free to contact me.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Tech Stack
+- SvelteKit
+- TailwindCSS
+- Vite
+- TypeScript
 
 ## Developing
 
